@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rullan-Harvey-Laurence">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="mailto:rullan.harvey.laurence.2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -129,9 +126,6 @@ Git · GitHub · npm · ESLint · Prettier
 <p align="center">
   <a href="mailto:rullan.harvey.laurence.2004@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email">
-  </a>
-  <a href="https://github.com/Rullan-Harvey-Laurence">
-    <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects">
   </a>
 </p>
 
