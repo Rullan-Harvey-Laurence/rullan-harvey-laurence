@@ -78,21 +78,6 @@ A collaborative web application project developed as part of Team 404, focused o
 - **Code quality and package management:** ESLint, Prettier, npm
 - **AI orchestration:** LangGraph, LangChain
 
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rullan-Harvey-Laurence&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rullan-Harvey-Laurence&layout=compact&theme=radical&hide_border=true"
-    height="165"
-    alt="Most-used languages on GitHub"
-  />
-</p>
-
 ---
 
 <p align="center">
