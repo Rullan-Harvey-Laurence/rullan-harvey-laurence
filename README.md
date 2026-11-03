@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  I build practical web applications with clean interfaces, maintainable architecture, and thoughtful user experiences.
+  I build practical web applications with thoughtful user experiences and maintainable architecture.
 </p>
 
 <p align="center">
   <a href="https://github.com/Rullan-Harvey-Laurence">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:rullan.harvey.laurence.2004@example.com">
+  <a href="mailto:rullan.harvey.laurence.2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
@@ -31,12 +31,17 @@
 - 🌱 I’m learning more about database migration workflows and deployment automation.
 - 🤝 I’m open to collaborating on web development, product engineering, and open-source projects.
 
+## 🎓 Education
+
+**De La Salle University–Dasmariñas (DLSU-D)**  
+University student · Expected graduation: **2027**
+
 ## Featured Projects
 
 ### HabitFlow — Team 404
 A collaborative habit and task-tracking web application that helps users organize projects, tasks, deadlines, priorities, and recurring routines. The project includes account registration, authentication, user profiles, and an Inbox project created at sign-up.
 
-**My role:** Tech Lead 
+**My role:** Tech Lead  
 **Tech:** Angular, TypeScript, Express.js, Node.js, Supabase PostgreSQL  
 **Deployment:** [Live preview](https://project-team-404.vercel.app/)  
 **Repository:** [dlsud-itd/project-team-404](https://github.com/dlsud-itd/project-team-404)
@@ -44,7 +49,7 @@ A collaborative habit and task-tracking web application that helps users organiz
 ### Oppa Dru System
 A full-stack ordering and franchise-management system. The repository includes customer ordering, franchise operations, branch inventory, and point-of-sale features, alongside account and administration workflows.
 
-**My role:** Team Member/Developer 
+**My role:** Team Member/Developer  
 **Tech:** React, TypeScript, Vite, Laravel, PHP  
 **Deployment:** Vercel frontend and Render backend  
 **Repository:** [Masangkay-Albert/OppaDru-System](https://github.com/Masangkay-Albert/OppaDru-System)
@@ -97,11 +102,29 @@ Vitest · React Testing Library
 ### 🔧 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,eslint,prettier" alt="Git, GitHub, npm, ESLint, and Prettier">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,eslint,prettier" alt="Git, GitHub, npm, ESLET, and Prettier">
 </p>
 
 Git · GitHub · npm · ESLint · Prettier
 
+---
+
+## 🎯 Looking for Internship Opportunities
+
 <p align="center">
-  <i>Always learning, building, and creating software that makes an impacts.</i>
+  <strong>I'm a university student seeking an internship opportunity.</strong><br>
+  I’m eager to contribute to a development team, learn from experienced professionals, and build meaningful software.
+</p>
+
+<p align="center">
+  <a href="mailto:rullan.harvey.laurence.2004@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email">
+  </a>
+  <a href="https://github.com/Rullan-Harvey-Laurence">
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects">
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning, building, and creating software that makes an impact.</i>
 </p>
