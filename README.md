@@ -25,25 +25,29 @@
 ## About me
 
 - 🎓 I’m a developer focused on full-stack web development and software architecture.
-- 🚀 I currently serve as **Technical Lead** for the **Oppa Dru System** capstone project.
+- 🚀 I currently serve as **Technical Lead** for the **Habitflow** project.
 - 🧩 I work with **Angular**, **Node.js/Express**, and **Supabase PostgreSQL** to build full-stack solutions.
 - 🎨 I enjoy combining development with design thinking and user-focused UI/UX practices.
 - 🌱 I’m learning more about Docker, database migration workflows, and deployment automation.
 - 🤝 I’m open to collaborating on web development, product engineering, and open-source projects.
 
-## Featured projects
+## Featured Projects
+
+### HabitFlow — Team 404
+A collaborative habit and task-tracking web application that helps users organize projects, tasks, deadlines, priorities, and recurring routines. The project includes account registration, authentication, user profiles, and an Inbox project created at sign-up.
+
+**My role:** Team member  
+**Tech:** Angular, TypeScript, Express.js, Node.js, Supabase PostgreSQL  
+**Deployment:** [Live preview](https://project-team-404.vercel.app/)  
+**Repository:** [dlsud-itd/project-team-404](https://github.com/dlsud-itd/project-team-404)
 
 ### Oppa Dru System
-A senior capstone project where I act as Technical Lead, overseeing the system architecture and full-stack development.
+A full-stack ordering and franchise-management system. The repository includes customer ordering, franchise operations, branch inventory, and point-of-sale features, alongside account and administration workflows.
 
-[View project](https://github.com/Rullan-Harvey-Laurence/oppadru-project-capstone)
-
-### Team 404 / HabitFlow
-A collaborative web application project developed as part of Team 404, focused on user experience, responsive design, and modern frontend engineering.
-
-[View project](https://github.com/magpale-chloe/team-404-angular)
-
-> If your HabitFlow project has a different repository URL, replace the link above with the correct one.
+**My role:** Technical Lead for the senior capstone project  
+**Tech:** React, TypeScript, Vite, Laravel, PHP  
+**Deployment:** Vercel frontend and Render backend  
+**Repository:** [Masangkay-Albert/OppaDru-System](https://github.com/Masangkay-Albert/OppaDru-System)
 
 ## Tech stack
 
