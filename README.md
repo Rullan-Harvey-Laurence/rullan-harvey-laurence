@@ -33,8 +33,18 @@
 
 ## 🎓 Education
 
-**De La Salle University–Dasmariñas (DLSU-D)**  
-University student · Expected graduation: **2027**
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://live.staticflickr.com/4004/4292398920_245f0af77c.jpg" alt="De La Salle University–Dasmariñas logo" width="90">
+    </td>
+    <td>
+      <strong>De La Salle University–Dasmariñas (DLSU-D)</strong><br>
+      University student<br>
+      Expected graduation: <strong>2027</strong>
+    </td>
+  </tr>
+</table>
 
 ## Featured Projects
 
@@ -102,7 +112,7 @@ Vitest · React Testing Library
 ### 🔧 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,eslint,prettier" alt="Git, GitHub, npm, ESLET, and Prettier">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,eslint,prettier" alt="Git, GitHub, npm, ESLint, and Prettier">
 </p>
 
 Git · GitHub · npm · ESLint · Prettier
