@@ -54,7 +54,7 @@ A collaborative habit and task-tracking web application that helps users organiz
 A full-stack ordering and franchise-management system. The repository includes customer ordering, franchise operations, branch inventory, and point-of-sale features, alongside account and administration workflows.
 
 **My role:** Team Member/Developer  
-**Tech:** React, TypeScript, Vite, Laravel, PHP  
+**Tech:** React, TypeScript, Vite, PHP  
 **Deployment:** Vercel frontend and Render backend  
 **Repository:** [Masangkay-Albert/OppaDru-System](https://github.com/Masangkay-Albert/OppaDru-System)
 
@@ -73,11 +73,11 @@ A full-stack ordering and franchise-management system. The repository includes c
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Node.js, Express, PHP">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Node.js, Express, and PHP">
 </p>
 
 **Languages:** PHP  
-**Runtime and frameworks:** Node.js · Express.js · 
+**Runtime and frameworks:** Node.js · Express.js
 
 ### 🗄️ Databases and Backend Platforms
 
