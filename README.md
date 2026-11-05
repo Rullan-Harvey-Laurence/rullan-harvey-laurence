@@ -73,11 +73,11 @@ A full-stack ordering and franchise-management system. The repository includes c
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Node.js, Express, PHP, and Laravel">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Node.js, Express, PHP">
 </p>
 
 **Languages:** PHP  
-**Runtime and frameworks:** Node.js · Express.js · Laravel
+**Runtime and frameworks:** Node.js · Express.js · 
 
 ### 🗄️ Databases and Backend Platforms
 
